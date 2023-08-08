@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@myorg/katerina": ["libs/rlv1/src/index.ts"]
+      "@myorg/katerina": ["libs/rlv1/src/index.ts"],
+      "@vitewksp/rlv2": ["libs/rlv2/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
